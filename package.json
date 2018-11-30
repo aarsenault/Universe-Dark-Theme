@@ -1,0 +1,23 @@
+{
+    "name": "Universe",
+    "displayName": "Universe",
+    "description": "Universe Dark Color Theme",
+    "publisher": "aarsenault",
+    "icon": "img/universe.png",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Universe Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Universe Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
