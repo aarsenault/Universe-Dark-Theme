@@ -6,7 +6,7 @@ This color theme was designed for maximum clarity and readability with colors ch
 
 ![](img/preview.png)
 
-###PS:
+### PS:
 #### We're always looking for talented developers at Universe. Why not see if there's an [opening for you that fits?](https://careers.universe.com/)
 
 
